@@ -1,0 +1,24 @@
+.narancs{
+    background-color: darkorange;
+    color: white;
+}
+
+.important{
+    color: red;
+}
+
+table{
+    color: gray;
+    background-color: lightgray;
+    font-size: 25px;
+}
+
+td{
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+}
+
+div{
+    font-size: 1cm;
+}
+
